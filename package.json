@@ -6,6 +6,6 @@
 	"author": "Steven Beasley",
 	"license": "ISC",
 	"dependencies": {
-		"fast-csv": "^4.0.2"
+		"csv-parser": "^2.3.2"
 	}
 }
