@@ -1,0 +1,11 @@
+{
+	"name": "backend_test",
+	"version": "1.0.0",
+	"description": "Conversts a CSV file to JSON as fast as possible",
+	"main": "index.js",
+	"author": "Steven Beasley",
+	"license": "ISC",
+	"dependencies": {
+		"fast-csv": "^4.0.2"
+	}
+}

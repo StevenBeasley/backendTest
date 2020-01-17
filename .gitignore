@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+#the data
+data/
+
+#dont want to commit .vscode
+.vscode/
